@@ -4,9 +4,7 @@ An interactive Tableau dashboard exploring how happiness differs across countrie
 
 **🔗 Live dashboard:** [World Happiness Analysis on Tableau Public](https://public.tableau.com/app/profile/oladotun.ajayi/viz/worldhappinessanalysis_17776699803910/Dashboard1)
 
-<img width="1298" height="1314" alt="world happiness dashboard (original version)" src="https://github.com/user-attachments/assets/2f7e3cbe-cc35-48d9-abc0-10de3ab8c618" />
-
-> Screenshot shows the original version; see the live link for the current redesign.
+![World Happiness Analysis dashboard](dashboard.png)
 
 ## Key findings
 
